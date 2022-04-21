@@ -16,6 +16,9 @@
 .build
 .sst
 
+# IDE
+.idea
+
 # environments
 .env*.local
 
